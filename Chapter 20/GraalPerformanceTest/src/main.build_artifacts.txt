@@ -1,0 +1,6 @@
+[EXECUTABLE]
+main.exe
+
+[JDK_LIB]
+sunmscapi.dll
+
